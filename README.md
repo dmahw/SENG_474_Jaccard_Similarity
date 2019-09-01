@@ -2,8 +2,8 @@ SENG 474 Programming Assignment Locality Sensitivity and Jaccard Similarity
 ===========================================================================
 
 ## Developers
-David Mah
-Adam Leung
+* David Mah
+* Adam Leung
 
 ## Description
 This respository contains 2 solutions, jaccard similarity, and jaccard similarity with locality sensitivity. Both computes similarities between a database of questions. With locality sensitivity hashing, we can compute similarities in larger datasets much quicker. 
